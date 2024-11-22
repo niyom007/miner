@@ -1,0 +1,8 @@
+{
+    "pool": "stratum+tcp://stratum-asia.rplant.xyz:7059",
+    "algo": "yespowerTIDE",
+    "wallet": "TUGYWwcosNRqC78qaQJoMCfJ4iTVEv1jBg",
+    "pass": "x",
+    "name": "X-MINER",
+    "cpu": "8"
+}
